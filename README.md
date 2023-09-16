@@ -37,6 +37,8 @@
 # Домашнее задание
 Разработать UML-диаграмму классов спроектированного на семинаре комплекса.
 
+![](https://github.com/ShumAhd/Software-architecture-6/blob/main/UML.png)
+
 
 
 
